@@ -16,7 +16,7 @@ Assignment #:  1
 
 Program due date: 9/25 
 
-Handed in date:  
+Handed in date:  9/25
 
 Source code file name(s):
 Node.java
@@ -34,7 +34,7 @@ Other file name(s) (if relevant):
 
 
 
-Does your program run without error?:
+Does your program run without error?: Yes
 
 If not, what is/are the error(s) and which parts of your program run
 correctly?:
@@ -47,7 +47,7 @@ correctly?:
 
 Additional comments to the grader:
 
-
+Approach.txt in repository
 
 
 
