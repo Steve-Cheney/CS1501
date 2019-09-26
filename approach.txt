@@ -3,6 +3,11 @@ Stephen Cheney
 
 Approach:
 
-The DLB is created using Nodes that keep track of any siblings or children, as well as its own value. The DLB class is explicitly functions for working on the DLB. When suggesting, the program finds the suggestions for each prefix in reverse alphabetical order (finding last sibling, and then working backwards). Therefore, a stack is the main storage data type for the suggestions in order to print out in alphabetical order. 
+The DLB is created using Nodes that keep track of any siblings or children, as well as its own value. The DLB class is explicitly functions 
+for working on the DLB. When suggesting, the program finds the suggestions for each prefix in reverse alphabetical order (finding last 
+sibling, and then working backwards). Therefore, a stack is the main storage data type for the suggestions in order to print out in 
+alphabetical order. 
 
-The frequency of each word is stored in the word's corresponding terminator character '^'. The program will sort the stack of user suggestions based on looking at this node, and then fill a Linked List of user history based suggestions and dictionary based suggestions to output to console. The user history is also stored and accessed a DLB with the same properties of the dictionary DLB.*
+The frequency of each word is stored in the word's corresponding terminator character '^'. The program will sort the stack of user 
+suggestions based on looking at this node, and then fill a Linked List of user history based suggestions and dictionary based suggestions 
+to output to console. The user history is also stored and accessed a DLB with the same properties of the dictionary DLB.*
